@@ -1,7 +1,7 @@
 # Duo Portfolio Demo
 
 ## Deskripsi Singkat
-Website portofolio bersama antara **Mohamad Dafinsa Tauladani Setiawan** dan **Syifa Meriasa Putri Wijaya**. Proyek ini dibuat sebagai bagian dari pelatihan "Solusi Digital untuk Kehidupan Sehari-hari". 
+Website portofolio bersama antara **Mohamad Dafinsa Tauladani Setiawan** dan **Syifa' Meriasa Putri Wijaya**. Proyek ini dibuat sebagai bagian dari pelatihan "Solusi Digital untuk Kehidupan Sehari-hari". 
 
 Tujuan utama: Menampilkan profil, peran, dan nilai bersama kami dalam satu halaman interaktif dengan background animasi.
 
@@ -25,4 +25,4 @@ Mohamad Dafinsa Tauladani Setiawan
 📧 contact@dafinsatauladani.my.id  
 
 Syifa Meriasa Putri Wijaya  
-📧 
+📧 syifameriasaa@gmail.com
